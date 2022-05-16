@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @alirezadarban
-- 👀 I’m interested in Programming
+- 👀 I’m interested in Programming, Learning and Figuring out
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on challenging projects
 - 📫 How to reach me:
